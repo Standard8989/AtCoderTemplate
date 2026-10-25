@@ -1,3 +1,5 @@
+// AtCoder用テンプレート
+// https://github.com/Standard8989/AtCoderTemplate
 #include <atcoder/all>
 #include <bits/stdc++.h>
 using namespace std;
